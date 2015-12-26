@@ -1,10 +1,10 @@
 server:
   port: 8888
+logging:
+  file: myapplication.log
 spring:
   application:
     name: config-server
-    logging:
-      file: myapplication.log
   cloud:
     config:
       server:
