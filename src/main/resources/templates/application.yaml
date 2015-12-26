@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri: https://aautushka@bitbucket.org/aautushka/tasksmanager-configuration.git
+          uri: toBeReplacedByRepositoryUrl 
           username: toBeReplacedByUserName
           password: toBeReplacedByUserPassword
 
