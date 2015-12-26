@@ -3,6 +3,8 @@ server:
 spring:
   application:
     name: config-server
+    logging:
+      file: myapplication.log
   cloud:
     config:
       server:
